@@ -1,0 +1,15 @@
+:root{font-family:Inter,system-ui,Avenir,Helvetica,Arial,sans-serif;color-scheme:light}
+body{margin:0;background:#f7f7f7;color:#222}
+.container{max-width:1000px;margin:0 auto;padding:24px}
+.nav{display:flex;gap:12px;margin-bottom:16px}
+button{padding:8px 12px;border:1px solid #ccc;background:#fff;border-radius:6px;cursor:pointer}
+button:hover{background:#f0f0f0}
+form{display:grid;gap:10px;max-width:420px}
+input,textarea,select{padding:8px;border:1px solid #ccc;border-radius:6px}
+.message{margin-top:8px}
+table{width:100%;border-collapse:collapse;background:#fff}
+th,td{border:1px solid #e5e5e5;padding:8px;text-align:left}
+th{background:#fafafa}
+.actions{display:flex;gap:8px}
+
+
